@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rajesh Jayaraman
+title: Welcome
 tagline: Writings
 ---
 {% include JB/setup %}
