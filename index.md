@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Writings
 tagline: Writings
 comments: false
 ---
