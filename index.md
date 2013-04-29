@@ -2,6 +2,7 @@
 layout: page
 title: Writings
 tagline: Writings
+group: navigation
 comments: false
 ---
 {% include JB/setup %}
