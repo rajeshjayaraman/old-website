@@ -4,6 +4,6 @@ title: "Bitcoin ecosystem"
 description: ""
 category: 
 tags: []
-published: false
+published: true
 ---
 {% include JB/setup %}
