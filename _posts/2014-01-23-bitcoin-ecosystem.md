@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin ecosystem"
+title: "Bitcoin ecosystem - Filling the blanks"
 description: ""
 category: 
 tags: []
