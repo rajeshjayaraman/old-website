@@ -3,7 +3,7 @@ layout: post
 title: "Bitcoin ecosystem - Filling the blanks"
 description: ""
 category: 
-tags: []
+tags: [bitcoin,multi-sided market,payments]
 published: true
 ---
 {% include JB/setup %}
