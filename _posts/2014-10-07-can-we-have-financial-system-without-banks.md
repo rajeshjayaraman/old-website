@@ -7,7 +7,7 @@ tags: [finance, banking]
 ---
 {% include JB/setup %}
 
-Bloomberg Businessweek published an interesting interview with Marc Andreessen today in which he says that technologists can reinvent the entire financial system. He discusses in depth two areas: Unbundling of credit intermediation with credit underwriting using new/different/big data and Bitcoin. Any such discussion on "disrupting" finance always comes down to the question of what happens to [commercial banks][1]. Can we have a financial system without banks as we know them today?
+Bloomberg Businessweek published an interesting interview with Marc Andreessen today in which he says that technologists can reinvent the entire financial system. He discusses in depth two areas: Unbundling of credit intermediation with credit underwriting using new/different/big data and Bitcoin. Any such discussion on "disrupting" finance always comes down to the question of what happens to [commercial banks](#foot). Can we have a financial system without banks as we know them today?
 
 Before we answer that question, lets revisit the definition of what a bank is and what it does. This [Investopedia](http://www.investopedia.com/university/banking-system/banking-system2.asp) article is sufficient to give us the lay of the land. Banks perform 4 essential functions: Payment settlement (or liquidity provision), Credit intermediation (borrowing from depositors and lending to borrowers), Maturity transformation (providing immediate funds to depositors while making long maturity loans to borrowers), and money creation.
 
@@ -23,5 +23,5 @@ This really leaves us with what to do about demand deposits. The answer was give
 
 So, the answer to the original question is: Yes. We _can_ have a financial system without banks.
 
-[1]: Investment banking is a different matter altogether. It definitely provides scale advantages for investment banks to be together with commercial banks but there is no inherent reason that they need to be together. We have had a period of 60+ years (1932-1999) when Glass-Steagal was in effect where investment banks and commercial banks were separated. In this post we will use the term banks to refer only to commercial banks and not investment banks.
+<a id="foot">Investment banking is a different matter altogether. It definitely provides scale advantages for investment banks to be together with commercial banks but there is no inherent reason that they need to be together. We have had a period of 60+ years (1932-1999) when Glass-Steagal was in effect where investment banks and commercial banks were separated. In this post we will use the term banks to refer only to commercial banks and not investment banks.</a>
 
