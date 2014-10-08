@@ -23,5 +23,5 @@ This really leaves us with what to do about demand deposits. The answer was give
 
 So, the answer to the original question is: Yes. We _can_ have a financial system without banks.
 
-[1] Investment banking is a different matter altogether. It definitely provides scale advantages for investment banks to be together with commercial banks but there is no inherent reason that they need to be together. We have had a period of 60+ years (1932-1999) when Glass-Steagal was in effect where investment banks and commercial banks were separated. In this post we will use the term banks to refer only to commercial banks and not investment banks.
+[1]: Investment banking is a different matter altogether. It definitely provides scale advantages for investment banks to be together with commercial banks but there is no inherent reason that they need to be together. We have had a period of 60+ years (1932-1999) when Glass-Steagal was in effect where investment banks and commercial banks were separated. In this post we will use the term banks to refer only to commercial banks and not investment banks.
 
